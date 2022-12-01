@@ -21,6 +21,7 @@
 
 header, h1{
   font-family: 'Kaushan', cursive, sans-serif;
+  padding-bottom: 15px;
 }
 
 
@@ -38,7 +39,6 @@ create{
   width:80%;
 }
 
-
 .edit{
   width:100%;
   margin:0 auto;
@@ -55,13 +55,4 @@ create{
 
 .index-table{
   padding-bottom: 15px;
-}
-
-a{
-  font-weight: bold;
-  text-decoration: none;
-}
-
-a:hover{
-  color:#F00;
 }
